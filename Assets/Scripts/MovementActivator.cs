@@ -17,4 +17,9 @@ public class MovementActivator : MonoBehaviour
     {
         
     }
+
+    //private void OnTriggerEnter(Collider other) 
+    //{
+    //    objectToActivate.Get
+    //}
 }
